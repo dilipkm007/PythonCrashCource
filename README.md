@@ -1,0 +1,2 @@
+# PythonCrashCource
+Learn Python Fast
